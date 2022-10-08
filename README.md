@@ -21,3 +21,8 @@ date: "26-06-2022"
 Clone this GitHub repo:
 Repository Link or https://github.com/bee-solve/booking-flight-api
  Make changes to the index.js file. Create your own repository and push your code to your created repository. Submit the link to your created GitHub repository.
+ 
+ 
+ ## Author
+ 
+ Sunday JIMOH
